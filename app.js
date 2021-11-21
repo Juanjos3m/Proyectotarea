@@ -1,2 +1,3 @@
-"Hello"
-consele();
+()=>{
+    console.log("Hola mundo");
+}
